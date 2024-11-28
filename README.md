@@ -53,7 +53,7 @@ data_cleaning_pipeline/ │ ├── data_cleaning.py # Main script for cleanin
 5. Check the Output: The cleaned data will be saved in cleaned_data.csv in the project folder
 
 
-Future Enhancements
+##Future Enhancements
 Add more advanced validation rules (e.g., using PyDeequ or Apache Spark).
 Integrate with cloud storage (e.g., AWS S3, Google Cloud Storage).
 Schedule pipeline runs using Apache Airflow or Prefect.
