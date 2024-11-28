@@ -1,0 +1,9 @@
+{
+    "fill_missing":{
+        "Name": "Unknown",
+        "Age": "mean",
+        "City": "Unknown"
+    },
+    "drop_duplicate": true,
+    "output_file": "cleaned_data.csv"
+}

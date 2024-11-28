@@ -1,0 +1,10 @@
+2024-11-28 23:03:17,187 - Data validation passed.
+2024-11-28 23:03:17,187 - Filled missing values in Name with 'Unknown'.
+2024-11-28 23:03:17,188 - Filled missing values in Age with the mean.
+2024-11-28 23:03:17,188 - Filled missing values in City with 'Unknown'.
+2024-11-28 23:03:17,189 - Data cleaning complete. Cleaned data saved to cleaned_data.csv.
+2024-11-28 23:03:49,095 - Data validation passed.
+2024-11-28 23:03:49,095 - Filled missing values in Name with 'Unknown'.
+2024-11-28 23:03:49,095 - Filled missing values in Age with the mean.
+2024-11-28 23:03:49,095 - Filled missing values in City with 'Unknown'.
+2024-11-28 23:03:49,097 - Data cleaning complete. Cleaned data saved to cleaned_data.csv.
