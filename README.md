@@ -59,7 +59,8 @@ Integrate with cloud storage (e.g., AWS S3, Google Cloud Storage).
 Schedule pipeline runs using Apache Airflow or Prefect.
 Create interactive dashboards for data quality reports.
 
-##Contributing
+---
+## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the project.
 
 Author
